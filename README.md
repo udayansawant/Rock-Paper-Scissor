@@ -1,1 +1,3 @@
 # Rock-Paper-Scissor
+
+We have always played rock, paper scissor games with our playmate. But what if your playmate is not available? Then this python programming will help you to play rock, paper, scissors along with your computer that is designed by you. It is one of the most popular python project ideas for beginners to build their skills. In this program, we will use a random function for generating the random output by the computer side. The user will make the first move and then the program makes one. Then a function will check the validity of the move. At last, we will display the result and ask the user to play again or not. 
